@@ -1,4 +1,5 @@
 # Chat App
+A real time chat app for mobile devices where multiple users can send simple text messages to each other. 
 
 # primary target audience 
 
@@ -21,11 +22,12 @@ users can have the option to customise their profile picture
 
 # system requirements
 
-The chat app should allow real-time communication 
+The chat app should allow real-time communication using firebase
 
-The app should be able to store their accounts (using sql)
+user authentication (login with email) should be able to store their accounts (using sql)
 
-This app should work on mobile devices
+This app should work for mobile devices
+
 
 # High-level functional specifications
 
@@ -45,6 +47,9 @@ loading time 1 second
 
 
 # User profiles
+
+user 1: wants to chat with friends through a simple, easy to user interface
+user 2: wants to chat with friends and 
 
 Rachel goodman is 18 years old and wants to find new friends to talk with through a chatting app. She wants to be able to remove group members if she has the permissions, mute messages and pin messages in the chat. Also to be able to share room links with other people
 
