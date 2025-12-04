@@ -56,5 +56,55 @@ Rachel goodman is 18 years old and wants to find new friends to talk with throug
 Maria sanchez is 21 years old who loves talking with new people and she wants to be able to customise her profile picture (avatar) and to be able to send emojis in chat.  to also be able to share room links with other people.
 
 
+# Mockups
+
+soon
+
+
+
+
+
+
+
+
+
+
+
+# Risk assessment 
+
+working alone - high impact 
+
+using new software - high impact 
+
+real time messaging issues - high impact 
+
+limited time as solo developer - high impact
+
+github commits - low-medium impact 
+
+
+
+# Software development strategy
+
+
+Agile
+
+
+
+
+
+
+
+
+# Test plan 
+
+
+
+
+
+
+
+
+
 
 
