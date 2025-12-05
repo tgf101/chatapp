@@ -61,6 +61,7 @@ Maria sanchez is 21 years old who loves talking with new people and she wants to
 
 <img width="237" height="441" alt="image" src="https://github.com/user-attachments/assets/571a5cde-5eeb-4b77-9f05-266d562f3771" />
 <img width="237" height="441" alt="image" src="https://github.com/user-attachments/assets/a0f7dcc0-d44c-4e1c-9229-cf467bf07154" />
+<img width="237" height="441" alt="image" src="https://github.com/user-attachments/assets/5d96dbc7-f27e-4602-b9cd-66e6bc09b1da" />
 
 
 
