@@ -59,6 +59,7 @@ Maria sanchez is 21 years old who loves talking with new people and she wants to
 # Mockups
 
 
+<img width="237" height="441" alt="image" src="https://github.com/user-attachments/assets/571a5cde-5eeb-4b77-9f05-266d562f3771" />
 
 
 
