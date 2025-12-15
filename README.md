@@ -93,3 +93,56 @@ Agile
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+# Socket.io - Real-time messaging 
+I used socket.io for real-time communication between connected users. This allows users to send anbd recieve messages instantly. 
+
+Code that was used was:
+io.on ("connection", function (socket){
+socket.on("newuser", function(username){
+socket.broadcast.emit("update", username + " joined the conversation");
+)
+This code means that when a user join the chat it comes up on the chat page that the user (users username) has joined the conversation.
+
+socket.on("newuser", function(username){
+socket.broadcast.emit("update", username + " left the conversation");
+)
+This code means that when a user leaves the chat it comes up on the chat page that the user (users username) has left the conversation.
+
+socket.on("chat", function(message){
+        socket.broadcast.emit("chat", message);
+    });
+Socket.io (2024)
+
+
+
+
+
+
+
+
+
+
+# References 
+
+w3schools (2024) Node.js Express.js Available at: https://www.w3schools.com/nodejs/nodejs_express.asp [Accessed: 15 December 2025].
+
+
+
+
+
+
+
+
+
+
