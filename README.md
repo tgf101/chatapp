@@ -1,8 +1,8 @@
 # Chat App
-A real time chat app for mobile devices where multiple users can send simple text messages to each other. 
+Chatify is a real time chat app for mobile devices where multiple users can send simple text messages to each other. Designed for mobile users which allows users to joined a group chat room, send text messages to each other, and exit the conversation. This application was developed using, HTML, CSS, JavaScript, Node.js, Express, Socket.io and used agile as my development strategy. 
 
 # Contributers
-I am working alone for this assignment 
+For this assignment I am going to be working alone. 
 
 # primary target audience 
 
@@ -74,12 +74,48 @@ github commits - low-medium impact
 Input details page to join chat, username input in first page, join button to join chat
 <img width="270" height="200" alt="image" src="https://github.com/user-attachments/assets/b7c2c479-d9bc-4965-b40a-c093f771a288" />
 
+The Chat Screen has a header with the chat application name with an exit button on the top right corner
+Able to scroll through chats in the messaging area
+A fixed message input at the bottom as well as the send button
 
+# Storyboard 
 
+User opens the application through the website 
+User enters their username
+User joins the chat room
+user sends messages
+others can receive the messages in real time
+user exits the chat and it proceeds back to join screen
 
 # Software development strategy
 
-Agile
+Agile approach was used as i considered the goals and users needs when developing the application.
+
+I used phase 2 the design stage user interface (UI) which has the apps functionalities such as creating visual elemements and the layouts. This includes the screen layout, icons, buttons, and navigation. 
+
+User expereince (UX) design was used to provide a smooth and seamless user experience ensuring that the app has no issues when scrolling and minimal loading time. 
+
+Phase 3 deployment was used as i developed the software in small parts or cycles known as sprints. i ensured the server ran correctly, users could connect to the chat through socket.io, and making it accessible through mobile. 
+
+Phase 4 is testing which i carried out making sure every function worked correctly, making sure that users were able to join the chat when inputting their username, and making sure that messages were able to be sent through real time. 
+
+
+
+
+# Pseudocode
+
+
+IF user clicks Join
+  SEND username to server
+  SWITCH to chat screen
+END IF
+
+IF message sent
+  DISPLAY message locally
+  BROADCAST message to other users
+END IF
+ 
+
 
 # Test plan 
 
@@ -123,6 +159,16 @@ socket.on("chat", function(message){
         socket.broadcast.emit("chat", message);
     });
 Socket.io (2024)
+
+
+
+
+
+
+
+
+
+
 
 
 
