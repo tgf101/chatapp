@@ -72,11 +72,11 @@ github commits - low-medium impact
 
 # UI design decisions
 Input details page to join chat 
-<img width="452" height="291" alt="image" src="https://github.com/user-attachments/assets/b7c2c479-d9bc-4965-b40a-c093f771a288" />
+<img width="400" height="260" alt="image" src="https://github.com/user-attachments/assets/b7c2c479-d9bc-4965-b40a-c093f771a288" />
 Username input in first page
-<img width="452" height="76" alt="image" src="https://github.com/user-attachments/assets/fd24381d-008e-4774-9e3c-858c618c5363" />
+<img width="400" height="50" alt="image" src="https://github.com/user-attachments/assets/fd24381d-008e-4774-9e3c-858c618c5363" />
 A join button to join chat 
-<img width="243" height="81" alt="image" src="https://github.com/user-attachments/assets/c8a464a1-f3d0-4e38-9991-9f98c07ff2b7" />
+<img width="220" height="60" alt="image" src="https://github.com/user-attachments/assets/c8a464a1-f3d0-4e38-9991-9f98c07ff2b7" />
 
 # Software development strategy
 
