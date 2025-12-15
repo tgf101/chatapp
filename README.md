@@ -120,27 +120,7 @@ END IF
 
 # Test plan 
 
-
-
 <img width="523" height="644" alt="image" src="https://github.com/user-attachments/assets/1e817fd9-93f4-4c64-a7db-9c40379ad564" />
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 # Socket.io - Real-time messaging 
 I used socket.io for real-time communication between connected users. This allows users to send anbd recieve messages instantly. 
