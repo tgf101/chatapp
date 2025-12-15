@@ -55,7 +55,8 @@ user 2: Wants to talk in conversations with multiple people
 # Mockups
 <img width="237" height="441" alt="image" src="https://github.com/user-attachments/assets/56bd210a-8016-4870-afc8-0b3f5c2cdda4" />
 <img width="237" height="441" alt="image" src="https://github.com/user-attachments/assets/4cf98903-698c-473c-bde0-da6230b4f3ec" />
-<img width="237" height="441" alt="image" src="https://github.com/user-attachments/assets/5d96dbc7-f27e-4602-b9cd-66e6bc09b1da" />
+<img width="237" height="441" alt="image" src="https://github.com/user-attachments/assets/64084a67-dc32-4b6a-b517-5f149af6cbe4" />
+
 
 
 # Risk assessment 
