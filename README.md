@@ -71,11 +71,11 @@ limited time as solo developer - high impact
 github commits - low-medium impact 
 
 # UI design decisions
-# Input details page to join chat 
-<img width="300" height="220" alt="image" src="https://github.com/user-attachments/assets/b7c2c479-d9bc-4965-b40a-c093f771a288" />
-# Username input in first page 
-<img width="400" height="50" alt="image" src="https://github.com/user-attachments/assets/fd24381d-008e-4774-9e3c-858c618c5363" />
-# A join button to join chat  
+Input details page to join chat 
+<img width="270" height="200" alt="image" src="https://github.com/user-attachments/assets/b7c2c479-d9bc-4965-b40a-c093f771a288" />
+Username input in first page 
+<img width="380" height="40" alt="image" src="https://github.com/user-attachments/assets/fd24381d-008e-4774-9e3c-858c618c5363" />
+A join button to join chat  
 <img width="220" height="60" alt="image" src="https://github.com/user-attachments/assets/c8a464a1-f3d0-4e38-9991-9f98c07ff2b7" />
 
 # Software development strategy
