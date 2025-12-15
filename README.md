@@ -54,7 +54,7 @@ user 2: Wants to talk in conversations with multiple people
 
 # Mockups
 <img width="237" height="441" alt="image" src="https://github.com/user-attachments/assets/56bd210a-8016-4870-afc8-0b3f5c2cdda4" />
-<img width="237" height="441" alt="image" src="https://github.com/user-attachments/assets/a0f7dcc0-d44c-4e1c-9229-cf467bf07154" />
+<img width="237" height="441" alt="image" src="https://github.com/user-attachments/assets/4cf98903-698c-473c-bde0-da6230b4f3ec" />
 <img width="237" height="441" alt="image" src="https://github.com/user-attachments/assets/5d96dbc7-f27e-4602-b9cd-66e6bc09b1da" />
 
 
