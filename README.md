@@ -10,22 +10,20 @@ The primary audience for this chat app is ages above 16 and above. However any c
 
 # Game rules and user specfications 
 
-users should be able to create an account or they can choose to log in as a guest
+users should be able to enter their username 
 
 users should then be able to join a chat room
 
 users can send and recieve messages in real time
 
-users can leave the room if they want to
-
-users can block other people and report them
-
-users can have the option to customise their profile picture 
+users can exit the chat
 
 
 # system requirements
 
-The chat app should allow real-time communication using firebase
+The chat app should allow real-time communication using WebSockets
+
+Username based (Requires no login)
 
 user authentication (login with email) should be able to store their accounts (using sql)
 
@@ -36,28 +34,23 @@ This app should work for mobile devices
 
 users should be able to send and recieve messages in real time 
 
-users should be able to log in and sign in to the app
+Mobile friendly 
 
-users should be able to customise their profile/avatar
+users should be able to join chat after entering their username
 
 # High-level non-functional specifications
 
 messages should be delivered in < 1 second 
 
-Mobile friendly 
+esponsive layout for mobile users
 
 minimal loading time
 
-
 # User profiles
 
-user 1: wants to chat with friends through a simple, easy to user interface
-user 2: wants to chat with friends and 
+user 1: Wants to chat with friends through a simple, easy to user interface
 
-Rachel goodman is 18 years old and wants to find new friends to talk with through a chatting app. She wants to be able to remove group members if she has the permissions, mute messages and pin messages in the chat. Also to be able to share room links with other people
-
-Maria sanchez is 21 years old who loves talking with new people and she wants to be able to customise her profile picture (avatar) and to be able to send emojis in chat.  to also be able to share room links with other people.
-
+user 2: Wants to talk in conversations with multiple people
 
 # Mockups
 <img width="237" height="441" alt="image" src="https://github.com/user-attachments/assets/571a5cde-5eeb-4b77-9f05-266d562f3771" />
@@ -77,10 +70,15 @@ limited time as solo developer - high impact
 
 github commits - low-medium impact 
 
-
+# UI design decisions
+Input details page to join chat 
+<img width="452" height="291" alt="image" src="https://github.com/user-attachments/assets/b7c2c479-d9bc-4965-b40a-c093f771a288" />
+Username input in first page
+<img width="452" height="76" alt="image" src="https://github.com/user-attachments/assets/fd24381d-008e-4774-9e3c-858c618c5363" />
+A join button to join chat 
+<img width="243" height="81" alt="image" src="https://github.com/user-attachments/assets/c8a464a1-f3d0-4e38-9991-9f98c07ff2b7" />
 
 # Software development strategy
-
 
 Agile
 
