@@ -53,7 +53,7 @@ user 1: Wants to chat with friends through a simple, easy to user interface
 user 2: Wants to talk in conversations with multiple people
 
 # Mockups
-<img width="237" height="441" alt="image" src="https://github.com/user-attachments/assets/571a5cde-5eeb-4b77-9f05-266d562f3771" />
+<img width="237" height="441" alt="image" src="https://github.com/user-attachments/assets/56bd210a-8016-4870-afc8-0b3f5c2cdda4" />
 <img width="237" height="441" alt="image" src="https://github.com/user-attachments/assets/a0f7dcc0-d44c-4e1c-9229-cf467bf07154" />
 <img width="237" height="441" alt="image" src="https://github.com/user-attachments/assets/5d96dbc7-f27e-4602-b9cd-66e6bc09b1da" />
 
