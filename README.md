@@ -140,6 +140,7 @@ This code means that when a user leaves the chat it comes up on the chat page th
 socket.on("chat", function(message){
         socket.broadcast.emit("chat", message);
     });
+This peice of code listens for a chat meessage and sends  it to all the connected users
 Socket.io (2024)
 
 
@@ -164,7 +165,7 @@ Socket.io (2024)
 # References 
 
 w3schools (2024) Node.js Express.js Available at: https://www.w3schools.com/nodejs/nodejs_express.asp [Accessed: 15 December 2025].
-
+Available at: https://socket.io/docs/v4/listening-to-events/ [Accessed: 15 December 2025]
 
 
 
