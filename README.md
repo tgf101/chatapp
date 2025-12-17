@@ -1,5 +1,5 @@
 # Chat App
-Chatify is a real time chat app for mobile devices where multiple users can send simple text messages to each other. Designed for mobile users which allows users to joined a group chat room, send text messages to each other, and exit the conversation. This application was developed using, HTML, CSS, JavaScript, Node.js, Express, Socket.io and used agile as my development strategy. 
+Chatify is a real time chat app for mobile devices where multiple users can send simple text messages to each other. Designed for mobile users which allows users to joined a group chat room, send text messages to each other, and exit the conversation. This application was developed using, HTML, CSS, JavaScript, Node.js, Express, Socket.io and used agile as my development strategy. The chat application was developed using Node.js and Express (W3Schools, 2024).
 
 # Contributers
 For this assignment I am going to be working alone. 
@@ -123,7 +123,7 @@ END IF
 <img width="523" height="644" alt="image" src="https://github.com/user-attachments/assets/1e817fd9-93f4-4c64-a7db-9c40379ad564" />
 
 # Socket.io - Real-time messaging 
-I used socket.io for real-time communication between connected users. This allows users to send anbd recieve messages instantly. 
+I used socket.io for real-time communication between connected users. This allows users to send and recieve messages instantly. 
 
 Code that was used was:
 io.on ("connection", function (socket){
