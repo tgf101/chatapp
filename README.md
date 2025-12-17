@@ -165,7 +165,7 @@ In the code.js file
 # References 
 
 w3schools (2024) Node.js Express.js Available at: https://www.w3schools.com/nodejs/nodejs_express.asp [Accessed: 15 December 2025].
-Available at: https://socket.io/docs/v4/listening-to-events/ [Accessed: 15 December 2025]
+Socket.io (2024) Emitting events Available at: https://socket.io/docs/v4/listening-to-events/ [Accessed: 15 December 2025]
 
 
 
