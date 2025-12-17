@@ -143,17 +143,12 @@ socket.on("chat", function(message){
 This peice of code listens for a chat meessage and sends  it to all the connected users
 Socket.io (2024)
 
-In the code.js file 
+# Deployment instructions 
+npm install 
+node server.js
 
-
-
-
-
-
-
-
-
-
+Access via: 
+http://localhost:3000
 
 
 
@@ -165,8 +160,8 @@ In the code.js file
 # References 
 
 w3schools (2024) Node.js Express.js Available at: https://www.w3schools.com/nodejs/nodejs_express.asp [Accessed: 15 December 2025].
-Socket.io (2024) Emitting events Available at: https://socket.io/docs/v4/listening-to-events/ [Accessed: 15 December 2025]
-
+Socket.io (2024) Listening to events Available at: https://socket.io/docs/v4/listening-to-events/ [Accessed: 15 December 2025]
+MDN Web Docs (2024) EventTarget.addEventListener(). Available at: https://developer.mozilla.org/en-US/docs/Web/API/EventTarget/addEventListener [Accessed: 15 December 2025]
 
 
 
