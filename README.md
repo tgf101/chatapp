@@ -144,11 +144,12 @@ This peice of code listens for a chat meessage and sends  it to all the connecte
 Socket.io (2024)
 
 # Deployment instructions 
-npm install 
+npm install
 node server.js
 
-Access via: 
+Access via 
 http://localhost:3000
+
 
 
 
